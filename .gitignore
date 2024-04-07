@@ -1,0 +1,4 @@
+# created 04_APR_2024 - satcowdev-crewai-stater - v 0.1.0
+.env
+.DS_Store
+__pycache__
